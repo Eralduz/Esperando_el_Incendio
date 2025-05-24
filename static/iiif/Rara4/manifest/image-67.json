@@ -1,0 +1,15 @@
+{
+  "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara4/manifest/image-67.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara4/manifest/canvas-67.json",
+  "body": {
+    "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara4/67/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 1334,
+    "width": 1024
+  }
+}

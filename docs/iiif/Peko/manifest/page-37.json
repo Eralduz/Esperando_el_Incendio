@@ -1,0 +1,21 @@
+{
+  "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Peko/manifest/page-37.json",
+  "items": [
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Peko/manifest/image-37.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Peko/manifest/canvas-37.json",
+      "body": {
+        "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Peko/37/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 743,
+        "width": 1024
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

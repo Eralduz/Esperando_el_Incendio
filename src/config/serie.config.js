@@ -1,38 +1,43 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez",
-  "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
+  "base": "https://Eralduz.github.io",
+  "baseurl": "/ESPERANDO_EL_INCENDIO",
+  "title": "Esperando el incendio",
+  "subtitle": "producto de la investigación curatorial creativa",
+  "credits": "Aldrin Diaz",
+  "copyright": "Todos los derechos reservados, 2025",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
         "key": "label",
-        "label": "Nombre",
+        "label": "Label",
         "type": "text"
       },
       {
-        "key": "autor",
-        "label": "Autor",
+        "key": "Publicador",
+        "label": "Publicador",
         "type": "text"
       },
       {
-        "key": "fecha",
-        "label": "Fecha",
+        "key": "Numero",
+        "label": "Numero",
         "type": "text"
       }
     ],
     "metadataToIndex": [
       "label",
-      "autor",
-      "fecha"
+      "Publicador",
+      "Numero",
+      "ano",
+      "Programa",
+      "Departamento",
+      "Facultad",
+      "Editor (director)",
+      "Ilustrador(es)",
+      "Contenidos especiales",
+      "Palabras clave"
     ]
   }
 };

@@ -4,14 +4,5 @@ layout: home
 ---
 
 # Introducción
+La Exposición “Esperando el Incendio” es el producto de la investigación curatorial creativa desarrollada a partir de las revistas literarias de la Universidad Pedagógica Nacional catalogadas en la hemeroteca de la Biblioteca Central con el objetivo de motivar el interés y diversificar la forma en que se usan las publicaciones o los productos patrimoniales en las prácticas artísticas. En el desarrollo de la investigación se plantearán distintos diálogos, análisis y reflexiones hasta llegar a la consolidación de lo que se expondrá, pasando por las diferentes interpelaciones determinando categorías, selecciones, experticias y el desarrollo de la muestra artística para realizar un acercamiento fenomenológico del acto creativo en el proceso curatorial.
 
-Esta es una plantilla para la creación de colecciones culturales digitales basada en Svelte.
-
-Es similar a otros sistemas de computación mínima, como [Wax](https://minicomp.github.io/wax/) o [Collection Builder](https://collectionbuilder.github.io/), pero tiene como fin ser una herramienta educativa para las humanidades digitales acerca de conceptos esenciales relacionados con colecciones digitales (metadatos, ítems, protocolos, narrativas).
-
-En particular, Serie Mini tiene las siguientes características:
-
-- Interfaz en español
-- Es fácil de instalar (El código está basado en Svelte, no en Jekyll. No requiere contentedores de Docker)
-- Es fácil de usar (Tiene una interfaz CLI que guía en el proceso de configuración y todos los elementos de la colección se disponen en una carpeta particular)
-- Es fácil de publicar en Github Pages por defecto

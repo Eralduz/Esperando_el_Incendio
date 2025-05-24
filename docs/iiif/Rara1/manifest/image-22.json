@@ -1,0 +1,15 @@
+{
+  "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-22.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-22.json",
+  "body": {
+    "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/22/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 1301,
+    "width": 1024
+  }
+}

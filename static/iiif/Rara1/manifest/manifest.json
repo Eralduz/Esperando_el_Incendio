@@ -1,0 +1,1092 @@
+{
+  "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Rara AVIS: Revista de literatura"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-0.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1307,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1307,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-1.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-1.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-1.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-1.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1409,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1409,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-2.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-2.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-2.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-2.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1296,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1296,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-3.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-3.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-3.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-3.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1298,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1298,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-4.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-4.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-4.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-4.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/4/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1310,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1310,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-5.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-5.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-5.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-5.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1352,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1352,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-6.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-6.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-6.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-6.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/6/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1284,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1284,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-7.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-7.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-7.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-7.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/7/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1313,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1313,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-8.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-8.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-8.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-8.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/8/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1309,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1309,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-9.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-9.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-9.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-9.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/9/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1302,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1302,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-10.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-10.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-10.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-10.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/10/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1324,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1324,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-11.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-11.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-11.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-11.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/11/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1341,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1341,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-12.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-12.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-12.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-12.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/12/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1299,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1299,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-13.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-13.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-13.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-13.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/13/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1317,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1317,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-14.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-14.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-14.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-14.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/14/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1310,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1310,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-15.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-15.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-15.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-15.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/15/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1301,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1301,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-16.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-16.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-16.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-16.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/16/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1409,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1409,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-17.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-17.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-17.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-17.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/17/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1326,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1326,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-18.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-18.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-18.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-18.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/18/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1298,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1298,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-19.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-19.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-19.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-19.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/19/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1312,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1312,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-20.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-20.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-20.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-20.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/20/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1310,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1310,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-21.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-21.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-21.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-21.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/21/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1305,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1305,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-22.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-22.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-22.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-22.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/22/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1301,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1301,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-23.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-23.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-23.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-23.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/23/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1288,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1288,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-24.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-24.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-24.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-24.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/24/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1293,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1293,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-25.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-25.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-25.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-25.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/25/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1276,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1276,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-26.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-26.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-26.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-26.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/26/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1298,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1298,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-27.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-27.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-27.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-27.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/27/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1288,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1288,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-28.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-28.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-28.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-28.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/28/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1306,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1306,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-29.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-29.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-29.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-29.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/29/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1282,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1282,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-30.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-30.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-30.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-30.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/30/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1298,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1298,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-31.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-31.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-31.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-31.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/31/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1281,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1281,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-32.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-32.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-32.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-32.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/32/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1298,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1298,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-33.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-33.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-33.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-33.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/33/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1296,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1296,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-34.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-34.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-34.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-34.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/34/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1340,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1340,
+      "annotations": []
+    },
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-35.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/page-35.json",
+          "items": [
+            {
+              "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/image-35.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/manifest/canvas-35.json",
+              "body": {
+                "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara1/35/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1342,
+                "width": 1024
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1024,
+      "height": 1342,
+      "annotations": []
+    }
+  ]
+}

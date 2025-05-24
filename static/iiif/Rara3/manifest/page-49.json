@@ -1,0 +1,21 @@
+{
+  "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara3/manifest/page-49.json",
+  "items": [
+    {
+      "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara3/manifest/image-49.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara3/manifest/canvas-49.json",
+      "body": {
+        "id": "https://Eralduz.github.io/ESPERANDO_EL_INCENDIO/iiif/Rara3/49/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1356,
+        "width": 1024
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}
