@@ -10,11 +10,10 @@
   :global(:root){
     --stroke: black; /* Font color */
     --fill: #fdfcfa; /* Background color */
-    --accent1: #c9e2ef; /* Main color */
-    --accent2: #0b456c; /* Higlights color */
+    --accent1:rgb(202, 213, 219); /* Main color */
+    --accent2:rgb(46, 59, 68); /* Higlights color */
     --mainfont: "Lato", sans-serif;
-    --headerfont: "Lato", sans-serif;
-    font-family: var(--mainfont);
+    --headerfont: "Courier Prime", regular 400;
   }
 
   :global(body) {

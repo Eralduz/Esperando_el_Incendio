@@ -2,9 +2,9 @@ const config = {
   "lang": "es",
   "localPort": "5173",
   "base": "https://Eralduz.github.io",
-  "baseurl": "/ESPERANDO_EL_INCENDIO",
-  "title": "Esperando el incendio",
-  "subtitle": "producto de la investigación curatorial creativa",
+  "baseurl": "/Esperando_el_Incendio",
+  "title": "Esperando el Incendio",
+  "subtitle": "Producto de la investigación curatorial creativa sobre las revistas de literatura de la Universidad Pedagógica Nacional",
   "credits": "Aldrin Diaz",
   "copyright": "Todos los derechos reservados, 2025",
   "pages": {
@@ -16,28 +16,42 @@ const config = {
         "type": "text"
       },
       {
-        "key": "Publicador",
-        "label": "Publicador",
+        "key": "Fecha",
+        "label": "Fecha",
         "type": "text"
       },
       {
-        "key": "Numero",
-        "label": "Numero",
+        "key": "Editor (director)",
+        "label": "Editor (director)",
+        "type": "text"
+      },
+      {
+        "key": "Ilustrador(es)",
+        "label": "Ilustrador(es)",
+        "type": "text"
+      },
+      {
+        "key": "Contenidos especiales",
+        "label": "Contenidos especiales",
+        "type": "text"
+      },
+      {
+        "key": "Palabras",
+        "label": "Palabras",
         "type": "text"
       }
     ],
     "metadataToIndex": [
       "label",
-      "Publicador",
       "Numero",
-      "ano",
+      "Fecha",
       "Programa",
       "Departamento",
       "Facultad",
       "Editor (director)",
       "Ilustrador(es)",
       "Contenidos especiales",
-      "Palabras clave"
+      "Palabras"
     ]
   }
 };

@@ -25,7 +25,7 @@ Así se mostrará una imagen que, si se cliquea, te llevará al elemento de la c
 
 Así:
 
-## Elementos interactivos Basadas en la base dedatos
+<ItemPreview pid="AdriaenCollaert" title="Por Adriaen Collaert" />
 
 También puedes usar urls de imágenes externas con normalidad en el formato Markdown.
 

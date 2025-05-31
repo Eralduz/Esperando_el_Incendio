@@ -1,22 +1,23 @@
-pid,label,item,Publicador,Numero,ano,Programa,Departamento,Facultad,Editor (director),Ilustrador(es),Contenidos especiales,Palabras clave
-Peko,"Poecukan: poesias, Cuentos, Canciones",1,Universidad Pedagogica Nacional,1,1983,pre escolar,Psicopedagogica,Educacion,Guillermo Alberto,Editorial,Resenas biograficas de autores,"Creacion literatura infantil
- Creacion Poesia
- Creacion Cuento
- Creacion Cancion"
-Rara1,Rara AVIS: Revista de literatura,2,Universidad Pedagogica Nacional,1,1999,N/A,Lenguas,Educacion,W. Julian Aldana,"Rodrigo Mendoza (portada), Monsalvo Camilo","Nueve articulos, Texto ludico, Resena.","Lenguas
- Educacion
- Poesia"
-Rara2,Rara AVIS: Revista de literatura,3,Universidad Pedagogica Nacional,2,1999-2000,N/A,Lenguas,Educacion,W. Julian Aldana,"Rodrigo Mendoza (portada), Monsalvo Camilo, Vargas Reyes.","Introduccion, doce Articulos, Texto ludico, index de Autores.","lenguas
- Educacion
- Literatura Realismo"
-Rara3,Rara AVIS: Revista de literatura,4,Universidad Pedagogica Nacional,3,2000,N/A,Lenguas,Educacion,W. Julian Aldana,"Alvaro Celi, Martinez Diego, Monsalvo Camilo.","Diecisiete Articulos, Texto ludico, Convocatoria Fe de Erratas, index de Autores.","lenguas
- Educacion
- Cuento 
- Comic
- Poesia"
-Rara4,Rara AVIS: Revista de literatura,5,Universidad Pedagogica Nacional,4,2001,N/A,Lenguas,Humanidades,W. Julian Aldana,"Monsalvo Camilo, Monsalvo Carlota, Rodrigo Mendoza.","Veintidos Articulos, Texto ludico, Convocatoria Fe de Erratas, index de Autores.","Lenguas
- Cronica
- Ensayo 
- Poema
- Cuento
- Comentarios"
+label,Numero,Fecha,Programa,Departamento,Facultad,Editor (director),Ilustrador(es),Contenidos especiales,Páginas,Artículos,Palabras,pid
+"Poecukan: Poesías, Cuentos, Canciones",1,1983,pre-escolar,Psicopedagogía,Educación,Guillermo Alberto,Editorial,Reseñas biográficas de autores,80,20,"Creación literatura infantil
+--Creación Poesía
+--Creación Cuento
+--Creación Canción.",P
+Rara AVIS: Revista de literatura N.1,1,1999,N/A,Lenguas,Educación,W. Julián Aldana,"Rodrigo Mendoza (portada), Monsalvo Camilo","Nueve artículos, Texto lúdico, Reseña.",32,9,"Lenguas
+--Educación
+--Poesía.",R1
+Rara AVIS: Revista de literatura N.2,2,1999,N/A,Lenguas,Educación,W. Julián Aldana,"Rodrigo Mendoza (portada), Monsalvo Camilo, Vargas Reyes.","Introducción, doce Artículos, Texto lúdico, Índex de Autores.",36,12,"Lenguas
+--Educación
+--Literatura 
+--Realismo.",R2
+Rara AVIS: Revista de literatura N.3,3,2000,N/A,Lenguas,Educación,W. Julián Aldana,"Álvaro Celi, Martínez Diego, Monsalvo Camilo.","Diecisiete artículos, Texto Lúdico, Convocatoria Fe de Erratas, Índex de Autores.",56,16,"Lenguas
+--Educación
+--Cuento 
+--Comic
+--Poesía.",R3
+Rara AVIS: Revista de literatura N.4,4,2001,N/A,Lenguas,Humanidades,W. Julián Aldana,"Monsalvo Camilo, Monsalvo Carlota, Rodrigo Mendoza.","Veintidós artículos, Texto Lúdico, Convocatoria Fe de Erratas, Índex de Autores.",72,22,"Lenguas
+--Crónica
+--Ensayo 
+--Poema
+--Cuento
+--Comentarios.",R4

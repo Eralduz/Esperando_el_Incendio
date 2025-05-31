@@ -10,7 +10,7 @@ layout: page
 
 # Explorar
 
-Usa los componentes interactivos para explorar los ítems de la colección:
+<h3>Encontraras las revistas digitalizadas, la experiencia de palparlas no se compara pero miremos fotografías al fin y al cabo es el recuerdo de lo que fue:</h3>
 
 <SearchBar />
 <Gallery filters={["label", "autor"]}/>

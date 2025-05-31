@@ -1,0 +1,18 @@
+const a=[{label:"Poecukan: Poesías, Cuentos, Canciones",Numero:"1",Fecha:"1983",Programa:"pre-escolar",Departamento:"Psicopedagogía",Facultad:"Educación","Editor (director)":"Guillermo Alberto","Ilustrador(es)":"Editorial","Contenidos especiales":"Reseñas biográficas de autores",Páginas:"80",Artículos:"20",Palabras:`Creación literatura infantil
+--Creación Poesía
+--Creación Cuento
+--Creación Canción.`,pid:"P",manifest:"https://Eralduz.github.io/Esperando_el_Incendio/iiif/P/manifest/manifest.json",_manifest:"http://localhost:5173/Esperando_el_Incendio/iiif/P/manifest/manifest.json",_images:43},{label:"Rara AVIS: Revista de literatura N.1",Numero:"1",Fecha:"1999",Programa:"N/A",Departamento:"Lenguas",Facultad:"Educación","Editor (director)":"W. Julián Aldana","Ilustrador(es)":"Rodrigo Mendoza (portada), Monsalvo Camilo","Contenidos especiales":"Nueve artículos, Texto lúdico, Reseña.",Páginas:"32",Artículos:"9",Palabras:`Lenguas
+--Educación
+--Poesía.`,pid:"R1",manifest:"https://Eralduz.github.io/Esperando_el_Incendio/iiif/R1/manifest/manifest.json",_manifest:"http://localhost:5173/Esperando_el_Incendio/iiif/R1/manifest/manifest.json",_images:36},{label:"Rara AVIS: Revista de literatura N.2",Numero:"2",Fecha:"1999",Programa:"N/A",Departamento:"Lenguas",Facultad:"Educación","Editor (director)":"W. Julián Aldana","Ilustrador(es)":"Rodrigo Mendoza (portada), Monsalvo Camilo, Vargas Reyes.","Contenidos especiales":"Introducción, doce Artículos, Texto lúdico, Índex de Autores.",Páginas:"36",Artículos:"12",Palabras:`Lenguas
+--Educación
+--Literatura 
+--Realismo.`,pid:"R2",manifest:"https://Eralduz.github.io/Esperando_el_Incendio/iiif/R2/manifest/manifest.json",_manifest:"http://localhost:5173/Esperando_el_Incendio/iiif/R2/manifest/manifest.json",_images:40},{label:"Rara AVIS: Revista de literatura N.3",Numero:"3",Fecha:"2000",Programa:"N/A",Departamento:"Lenguas",Facultad:"Educación","Editor (director)":"W. Julián Aldana","Ilustrador(es)":"Álvaro Celi, Martínez Diego, Monsalvo Camilo.","Contenidos especiales":"Diecisiete artículos, Texto Lúdico, Convocatoria Fe de Erratas, Índex de Autores.",Páginas:"56",Artículos:"16",Palabras:`Lenguas
+--Educación
+--Cuento 
+--Comic
+--Poesía.`,pid:"R3",manifest:"https://Eralduz.github.io/Esperando_el_Incendio/iiif/R3/manifest/manifest.json",_manifest:"http://localhost:5173/Esperando_el_Incendio/iiif/R3/manifest/manifest.json",_images:60},{label:"Rara AVIS: Revista de literatura N.4",Numero:"4",Fecha:"2001",Programa:"N/A",Departamento:"Lenguas",Facultad:"Humanidades","Editor (director)":"W. Julián Aldana","Ilustrador(es)":"Monsalvo Camilo, Monsalvo Carlota, Rodrigo Mendoza.","Contenidos especiales":"Veintidós artículos, Texto Lúdico, Convocatoria Fe de Erratas, Índex de Autores.",Páginas:"72",Artículos:"22",Palabras:`Lenguas
+--Crónica
+--Ensayo 
+--Poema
+--Cuento
+--Comentarios.`,pid:"R4",manifest:"https://Eralduz.github.io/Esperando_el_Incendio/iiif/R4/manifest/manifest.json",_manifest:"http://localhost:5173/Esperando_el_Incendio/iiif/R4/manifest/manifest.json",_images:75}];export{a as p};

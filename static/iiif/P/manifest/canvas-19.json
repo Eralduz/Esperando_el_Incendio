@@ -1,0 +1,30 @@
+{
+  "id": "https://Eralduz.github.io/Esperando_el_Incendio/iiif/P/manifest/canvas-19.json",
+  "items": [
+    {
+      "id": "https://Eralduz.github.io/Esperando_el_Incendio/iiif/P/manifest/page-19.json",
+      "items": [
+        {
+          "id": "https://Eralduz.github.io/Esperando_el_Incendio/iiif/P/manifest/image-19.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://Eralduz.github.io/Esperando_el_Incendio/iiif/P/manifest/canvas-19.json",
+          "body": {
+            "id": "https://Eralduz.github.io/Esperando_el_Incendio/iiif/P/19/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 741,
+            "width": 1024
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 1024,
+  "height": 741,
+  "annotations": []
+}

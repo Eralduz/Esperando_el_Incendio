@@ -1,0 +1,15 @@
+{
+  "id": "https://Eralduz.github.io/Esperando_el_Incendio/iiif/R2/manifest/image-36.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://Eralduz.github.io/Esperando_el_Incendio/iiif/R2/manifest/canvas-36.json",
+  "body": {
+    "id": "https://Eralduz.github.io/Esperando_el_Incendio/iiif/R2/36/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 1318,
+    "width": 1024
+  }
+}
